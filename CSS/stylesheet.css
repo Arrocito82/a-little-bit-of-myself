@@ -1,0 +1,88 @@
+    body {
+        background-color: #ebfffb;
+        text-align: center;
+        font-family: 'Raleway', sans-serif;
+    }
+    
+    h1 {
+        font-family: 'Satisfy', cursive;
+        font-size: 3rem;
+        margin-bottom: 0.5rem;
+        font-weight: lighter;
+    }
+    
+    h4 {
+        font-size: 1.5rem;
+        margin-top: 10px;
+        font-weight: lighter;
+    }
+    
+    hr {
+        overflow: visible;
+        /* For IE */
+        padding: 0;
+        border: none;
+        border-top: medium double #333;
+        color: #333;
+        text-align: center;
+    }
+    
+    p {
+        text-align: left;
+    }
+    
+    .navbar-light .navbar-nav .nav-link:visited,
+    .navbar-light .navbar-nav .nav-link {
+        font-family: 'Comfortaa', sans-serif;
+        margin: 0 3rem;
+        text-decoration: none;
+        text-align: center;
+        color: #13abc4;
+        text-shadow: 2px 2px 40px #7efaff;
+        font-size: 1.1rem;
+        font-weight: bold;
+    }
+    
+    .navbar-light .navbar-nav .nav-link:hover {
+        text-shadow: 0 0 2px #79edff, 0 0 0.2em #13abc4;
+        color: white;
+        font-weight: bold;
+        font-size: 1.1rem;
+    }
+    
+    .photo {
+        margin-right: 2rem;
+        margin-bottom: 2rem;
+        float: left;
+        width: 15rem;
+        height: 15rem;
+    }
+    
+    .skill-row {
+        margin-bottom: 5rem;
+        padding-bottom: 2rem;
+    }
+    
+    .topCloud {
+        position: absolute;
+        left: 70%;
+        top: 15%;
+    }
+    
+    .bottomCloud {
+        position: absolute;
+        left: 20%;
+    }
+    
+    .top-container {
+        margin-top: 100px;
+        display: inline-block;
+    }
+    
+    .middle-container {
+        padding: 0 10rem;
+    }
+    
+    .middle-container div {
+        margin-top: 75px;
+    }
