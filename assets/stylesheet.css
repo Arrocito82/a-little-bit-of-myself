@@ -86,3 +86,8 @@
     .middle-container div {
         margin-top: 75px;
     }
+
+    .bottom-container p {
+        text-align: center;
+        margin-top: 3rem;
+    }
